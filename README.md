@@ -1,6 +1,6 @@
 # IntroJavaLaboratorio2
 
-Laboratorio 2 de Intro a Java en Educación IT
+Laboratorio 2 de Intro a Java en Educación IT. Los ejercios estan hechos un poco distintos para que sean mas dinamicos
 
 Ejercicio 1
 Dado el siguiente código:
